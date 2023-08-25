@@ -51,5 +51,6 @@ vii. Filter (Period)
 
 Final Output 
 
-![image](https://github.com/rawatpiyush/Railway-Performance-Analytic-Power-BI-Dashboard/assets/143168770/a7b33d89-6b33-42ae-ac3c-22ad08282186)
+![image](https://github.com/rawatpiyush/Railway-Performance-Analytic-Power-BI-Dashboard/assets/143168770/4884f5b8-1268-4b3e-ae70-6cedac1d653d)
+
 
