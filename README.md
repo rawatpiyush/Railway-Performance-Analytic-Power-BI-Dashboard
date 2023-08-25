@@ -48,3 +48,8 @@ v. Column Chart (On-Time vs Late Arrival by Train Type)
 vi. Bar Chart (Satisfaction by train type)
 
 vii. Filter (Period)
+
+Final Output 
+
+![image](https://github.com/rawatpiyush/Railway-Performance-Analytic-Power-BI-Dashboard/assets/143168770/a7b33d89-6b33-42ae-ac3c-22ad08282186)
+
